@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="logo.png" alt="Monarch Castle Holdings" width="160"/>
+  <!-- CODEX: generate the holding crest / wordmark logo here (logo.png) -->
 
 # 🏰 Monarch Castle Holdings
 
@@ -6,41 +8,35 @@
 
 *The Palantir of Türkiye — sovereign decision-intelligence across threat, finance, energy, defense, and emergency domains.*
 
+![Ankara](https://img.shields.io/badge/Ankara-T%C3%BCrkiye-c8102e)
+![est.](https://img.shields.io/badge/est.-2026-0b1f3a)
+![doctrine](https://img.shields.io/badge/evidence-first-1f6feb)
+
 </div>
 
 ---
 
-## 🏛️ Structure
+## 🏛️ The Group
 
-Monarch Castle Holdings is a holding company over two operating subsidiaries.
+Monarch Castle Holdings is a **holding company** over two operating subsidiaries, each run as its own organization.
 
-### 🛰️ Strategic Data Company of Ankara
-*Threat-intelligence indices.*
-| Product | Repo |
-|---|---|
-| **BNTI** — Border-Neighbor Threat Index | [`border-neighbor-threat-index`](https://github.com/MonarchCastleHoldings/border-neighbor-threat-index) |
-| **WTI** — World Threat Index | [`world-threat-index`](https://github.com/MonarchCastleHoldings/world-threat-index) |
-| **MENA** — MENA Threat Index | [`mena-threat-index`](https://github.com/MonarchCastleHoldings/mena-threat-index) |
+| Subsidiary | Focus | Organization |
+|---|---|---|
+| 🛰️ **Strategic Data Company of Ankara** | Threat-intelligence indices | **[@SDCofA](https://github.com/SDCofA)** |
+| ⚙️ **Monarch Castle Technologies** | OSINT product company · 5 intelligence divisions | **[@monarchcastletech](https://github.com/monarchcastletech)** |
 
-### ⚙️ Monarch Castle Technologies
-*OSINT product company, organized into intelligence divisions.*
-
-- **🚨 Emergency Intelligence** — [PrepTürk](https://github.com/MonarchCastleHoldings/prepturk)
-- **💹 Financial Intelligence** — [EconMap](https://github.com/MonarchCastleHoldings/econmap) · [Supply Chain](https://github.com/MonarchCastleHoldings/supplychain) · [Cloudy Shiny](https://github.com/MonarchCastleHoldings/Cloudy-Shiny) · [MacroIntel](https://github.com/MonarchCastleHoldings/macrointel)
-- **🛡️ Defense Intelligence** — [Milcodec](https://github.com/MonarchCastleHoldings/milcodec-receiver)
-- **⚡ Energy Intelligence** — [ESG Map](https://github.com/MonarchCastleHoldings/esgmap) · [Nuclear Energy Intelligence](https://github.com/MonarchCastleHoldings/NuclearEnergyIntelligence)
-- **🏭 Sectoral Intelligence** — *coming soon*
+```
+Monarch Castle Holdings
+├── Strategic Data Company of Ankara   →  BNTI · WTI · MENA
+└── Monarch Castle Technologies        →  Emergency · Financial · Defense · Energy · Sectoral Intelligence
+```
 
 ---
 
-## 📐 Our doctrine
+## 📐 Doctrine
 
-- **Evidence before assertion.** Every score, alert, and claim ships with its source and collection timestamp. No un-provenanced numbers, ever.
-- **Lawful collection only.** Open, public sources; we honor access controls and data-protection law (KVKK / GDPR).
-- **Reproducibility.** Every pipeline re-runs from a clean checkout.
+- **Evidence before assertion** — every score, alert, and claim ships with its source and collection timestamp. No un-provenanced numbers, ever.
+- **Lawful collection only** — open, public sources; access controls and data-protection law (KVKK / GDPR) honored.
+- **Reproducibility** — every pipeline re-runs from a clean checkout.
 
----
-
-<div align="center">
-<sub>Monarch Castle Holdings · Ankara, Türkiye · est. 2026</sub>
-</div>
+<div align="center"><sub>🏰 Monarch Castle Holdings · Ankara, Türkiye · est. 2026</sub></div>
