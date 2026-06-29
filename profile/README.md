@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png" alt="Monarch Castle Holdings" width="160"/>
+  <img src="https://raw.githubusercontent.com/MonarchCastleHoldings/.github/main/profile/logo.png" alt="Monarch Castle Holdings" width="440"/>
   <!-- CODEX: generate the holding crest / wordmark logo here (logo.png) -->
 
 # 🏰 Monarch Castle Holdings
